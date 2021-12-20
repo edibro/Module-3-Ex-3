@@ -1,0 +1,71 @@
+{
+  "data": {
+    "accounts": {
+      "nodes": [
+        {
+          "id": "112A3784ssUTCFQJvygzhCt4eiVkXft4RFixknBT3jsT8nb5",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "241591-235",
+                "amount": "1000000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "11AguFdYDRuNrfNo6AxoVyd6Y15EsDRzv841WtrS523aAF1",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "198072-460",
+                "amount": "100000000000"
+              },
+              {
+                "id": "200865-275",
+                "amount": "900000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "11gh7WpYe5CKN82opEkrZUJsHeaFZa3pdEkEZFSMkV3k1Xj",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "299922-5",
+                "amount": "200000000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "11K8WWXa1vnsnwWgCVjiK2BSjoPXiT3Caa4ko5LjCYz2Sfs",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "198072-165",
+                "amount": "100000000000"
+              },
+              {
+                "id": "200865-98",
+                "amount": "900000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "11Q7ismkHUbbUexpQc4DgTvedfsh8jKMDV7jZZoQwv57NLS",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "303284-83",
+                "amount": "80000000000000000"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
